@@ -1,0 +1,8 @@
+.DS_Store
+._*
+*.project
+.buildpath
+.project
+.settings
+.TemporaryItems
+.webprj
